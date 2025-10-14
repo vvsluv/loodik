@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1760439384|17043099595';
+const CACHE_VERSION = '1760465612|43270315302';
 /** @type {string} */
 const CACHE_PREFIX = 'Лудик-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
