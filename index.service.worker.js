@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1761824564|3728925530';
+const CACHE_VERSION = '1761833477|1212153203';
 /** @type {string} */
 const CACHE_PREFIX = 'Gabler Life-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
